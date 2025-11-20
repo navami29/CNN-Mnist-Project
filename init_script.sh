@@ -10,7 +10,7 @@ source venv/bin/activate
 
 echo "......."
 
-echo "install. requiremnet.txt"
+echo "install requiremnet.txt"
 pip install -r requirement.txt
 
 sleep(2)
